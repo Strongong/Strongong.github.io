@@ -43,9 +43,9 @@
     <link href="http://example.com/2024/02/16/%E5%BB%BA%E7%AB%99%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/"/>
     <id>http://example.com/2024/02/16/%E5%BB%BA%E7%AB%99%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/</id>
     <published>2024-02-16T10:47:48.000Z</published>
-    <updated>2024-02-16T10:53:23.312Z</updated>
+    <updated>2024-02-16T11:01:28.639Z</updated>
     
-    <content type="html"><![CDATA[<p>自从建站来踩坑不断，在此列出一一错误，也可以为他人和以后做个借鉴（本指南只适合新手小白，因为站长烦的错误可能很低级。。。）</p><h1 id="“建站时间”与“最后更新时间不予显示”（待解决）"><a href="#“建站时间”与“最后更新时间不予显示”（待解决）" class="headerlink" title="“建站时间”与“最后更新时间不予显示”（待解决）"></a>“建站时间”与“最后更新时间不予显示”（待解决）</h1><h1 id="网站图标无法更新上传"><a href="#网站图标无法更新上传" class="headerlink" title="网站图标无法更新上传"></a>网站图标无法更新上传</h1>]]></content>
+    <content type="html"><![CDATA[<p>自从建站来踩坑不断，在此列出一一错误，也可以为他人和以后做个借鉴（本指南只适合新手小白，因为站长烦的错误可能很低级。。。）</p><h1 id="“建站时间”与“最后更新时间不予显示”（待解决）"><a href="#“建站时间”与“最后更新时间不予显示”（待解决）" class="headerlink" title="“建站时间”与“最后更新时间不予显示”（待解决）"></a>“建站时间”与“最后更新时间不予显示”（待解决）</h1><h1 id="网站图标无法更新上传"><a href="#网站图标无法更新上传" class="headerlink" title="网站图标无法更新上传"></a>网站图标无法更新上传</h1><h1 id="从nest更新到butterfly时网站报错"><a href="#从nest更新到butterfly时网站报错" class="headerlink" title="从nest更新到butterfly时网站报错"></a>从nest更新到butterfly时网站报错</h1><p>错误具体信息如下：</p><blockquote><p>extends includes&#x2F;layout.pug block content include .&#x2F;includes&#x2F;mixins&#x2F;post-ui.pug #recent-posts.recent-posts +postUI include includes&#x2F;pagination.pug<br>解决方法即输入命令：<br>npm install –save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive<br>最后输入<code>hexo clean</code>&amp;<code>hexo g -d</code>即可</p></blockquote>]]></content>
     
     
       
