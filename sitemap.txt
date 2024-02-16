@@ -1,6 +1,4 @@
-http://example.com/2024/02/16/article/
-http://example.com/2024/02/15/Febrary-test-one/
-http://example.com/2024/02/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%A6/
+http://example.com/2024/02/16/%E5%AD%A6%E4%B9%A0Markdown%E8%AF%AD%E6%B3%95/
 http://example.com/resources/index.html
 http://example.com/about/index.html
 http://example.com/tags/index.html
