@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-16T10:53:13.904Z</updated>
+  <updated>2024-02-16T14:04:05.279Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML学习笔记（一）</title>
+    <link href="http://example.com/2024/02/16/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://example.com/2024/02/16/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2024-02-16T13:34:54.000Z</published>
+    <updated>2024-02-16T14:04:05.279Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HTML基础"><a href="#HTML基础" class="headerlink" title="HTML基础"></a>HTML基础</h1><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h2 id="注意只有"><a href="#注意只有" class="headerlink" title="注意只有-"></a>注意只有<h1>-<h6></h2><h2 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h2><h2 id="段落是通过标签来定义的"><a href="#段落是通过标签来定义的" class="headerlink" title="段落是通过标签来定义的"></a>段落是通过标签<p>来定义的</h2><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><h2 id="要将链接双引号包裹置于方括弧中"><a href="#要将链接双引号包裹置于方括弧中" class="headerlink" title="要将链接双引号包裹置于方括弧中&lt;a href=&quot;https://stongong.github.io&quot;&gt;&lt;/a&gt;"></a>要将链接双引号包裹置于方括弧中<br><code>&lt;a href=&quot;https://stongong.github.io&quot;&gt;&lt;/a&gt;</code></h2><h2 id="图像"><a href="#图像" class="headerlink" title="图像"></a>图像</h2><h2 id="注意：图像的名称和尺寸是以属性的形式提供的。"><a href="#注意：图像的名称和尺寸是以属性的形式提供的。" class="headerlink" title="&lt;img src=&quot;/images/logo.png&quot; width=&quot;258&quot; height=&quot;39&quot; /&gt;注意：图像的名称和尺寸是以属性的形式提供的。"></a><code>&lt;img src=&quot;/images/logo.png&quot; width=&quot;258&quot; height=&quot;39&quot; /&gt;</code><br><strong>注意</strong>：图像的名称和尺寸是以属性的形式提供的。</h2><h1 id="HTML元素"><a href="#HTML元素" class="headerlink" title="HTML元素"></a>HTML元素</h1><p>开始标签起始，结束标签终止。没有内容的 HTML 元素被称为空元素。空元素是在开始标签中关闭的。<code>&lt;br&gt;</code> 就是没有关闭标签的空元素（<code>&lt;br&gt;</code> 标签定义换行）。在 XHTML、XML 以及未来版本的 HTML 中，所有元素都必须被关闭。在开始标签中添加斜杠，比如 <code>&lt;br /&gt;</code>，是关闭空元素的正确方法，HTML、XHTML 和 XML 都接受这种方式。即使 <code>&lt;br&gt;</code> 在所有浏览器中都是有效的，但使用 <code>&lt;br /&gt;</code> 其实是更长远的保障。<br>同时还要注意，尽量使用小写字母</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;HTML基础&quot;&gt;&lt;a href=&quot;#HTML基础&quot; class=&quot;headerlink&quot; title=&quot;HTML基础&quot;&gt;&lt;/a&gt;HTML基础&lt;/h1&gt;&lt;h2 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>点亮技能树</title>
