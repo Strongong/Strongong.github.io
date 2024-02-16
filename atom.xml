@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-16T10:22:48.638Z</updated>
+  <updated>2024-02-16T10:53:13.904Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>点亮技能树</title>
+    <link href="http://example.com/2024/02/16/%E7%82%B9%E4%BA%AE%E6%8A%80%E8%83%BD%E6%A0%91/"/>
+    <id>http://example.com/2024/02/16/%E7%82%B9%E4%BA%AE%E6%8A%80%E8%83%BD%E6%A0%91/</id>
+    <published>2024-02-16T10:52:33.000Z</published>
+    <updated>2024-02-16T10:53:13.904Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="持续更新计算机等学科学习教程！"><a href="#持续更新计算机等学科学习教程！" class="headerlink" title="持续更新计算机等学科学习教程！"></a>持续更新计算机等学科学习教程！</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;持续更新计算机等学科学习教程！&quot;&gt;&lt;a href=&quot;#持续更新计算机等学科学习教程！&quot; class=&quot;headerlink&quot; title=&quot;持续更新计算机等学科学习教程！&quot;&gt;&lt;/a&gt;持续更新计算机等学科学习教程！&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站踩坑指南</title>
+    <link href="http://example.com/2024/02/16/%E5%BB%BA%E7%AB%99%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/"/>
+    <id>http://example.com/2024/02/16/%E5%BB%BA%E7%AB%99%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/</id>
+    <published>2024-02-16T10:47:48.000Z</published>
+    <updated>2024-02-16T10:53:23.312Z</updated>
+    
+    <content type="html"><![CDATA[<p>自从建站来踩坑不断，在此列出一一错误，也可以为他人和以后做个借鉴（本指南只适合新手小白，因为站长烦的错误可能很低级。。。）</p><h1 id="“建站时间”与“最后更新时间不予显示”（待解决）"><a href="#“建站时间”与“最后更新时间不予显示”（待解决）" class="headerlink" title="“建站时间”与“最后更新时间不予显示”（待解决）"></a>“建站时间”与“最后更新时间不予显示”（待解决）</h1><h1 id="网站图标无法更新上传"><a href="#网站图标无法更新上传" class="headerlink" title="网站图标无法更新上传"></a>网站图标无法更新上传</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;自从建站来踩坑不断，在此列出一一错误，也可以为他人和以后做个借鉴（本指南只适合新手小白，因为站长烦的错误可能很低级。。。）&lt;/p&gt;
+&lt;h1 id=&quot;“建站时间”与“最后更新时间不予显示”（待解决）&quot;&gt;&lt;a href=&quot;#“建站时间”与“最后更新时间不予显示”（待解决）&quot; c</summary>
+      
+    
+    
+    
+    
+    <category term="踩坑" scheme="http://example.com/tags/%E8%B8%A9%E5%9D%91/"/>
+    
+  </entry>
   
   <entry>
     <title>学习Markdown语法</title>

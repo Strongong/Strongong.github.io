@@ -1,3 +1,5 @@
+http://example.com/2024/02/16/%E5%BB%BA%E7%AB%99%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/
+http://example.com/2024/02/16/%E7%82%B9%E4%BA%AE%E6%8A%80%E8%83%BD%E6%A0%91/
 http://example.com/2024/02/16/%E5%AD%A6%E4%B9%A0Markdown%E8%AF%AD%E6%B3%95/
 http://example.com/resources/index.html
 http://example.com/about/index.html
@@ -5,3 +7,5 @@ http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/Mrakdown/
+http://example.com/tags/%E8%B8%A9%E5%9D%91/
+http://example.com/tags/%E6%95%99%E7%A8%8B/
