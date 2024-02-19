@@ -7,7 +7,7 @@ http://example.com/resources/index.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/
-http://example.com/tags/HTML/
 http://example.com/tags/Mrakdown/
-http://example.com/tags/tips/
+http://example.com/tags/HTML/
 http://example.com/tags/%E6%95%99%E7%A8%8B/
+http://example.com/tags/tips/
