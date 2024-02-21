@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/2024/02/16/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,28 +84,28 @@
   
   <url>
     <loc>http://example.com/tags/HTML/</loc>
-    <lastmod>2024-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Mrakdown/</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/tips/</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
